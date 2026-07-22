@@ -109,18 +109,7 @@ streamlit run app.py
 
 ---
 
-## 📂 Repository Structure
 
-```
-├── Capstone_Project.ipynb
-├── app.py
-├── linear_regression_model.pkl
-├── predictors.pkl
-├── medians.pkl
-├── country_data.csv
-├── README.md
-└── Project_Report.pdf
-```
 
 ## 👩‍💻 Author
 
